@@ -1,5 +1,5 @@
 # Titanic Survival Analysis
-### Exploratory Data Analysis | Python | pandas | Matplotlib
+### Exploratory Data Analysis | Python | Pandas | Matplotlib
 
 ---
 
